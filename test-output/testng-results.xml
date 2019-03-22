@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="7" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1548" started-at="2019-03-22T09:22:20Z" finished-at="2019-03-22T09:22:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1548" started-at="2019-03-22T09:22:20Z" finished-at="2019-03-22T09:22:22Z">
+      <class name="base.TestBase">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:base.TestBase@21de60b4]" name="setUp" is-config="true" duration-ms="7424" started-at="2019-03-22T09:22:13Z" finished-at="2019-03-22T09:22:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:base.TestBase@21de60b4]" name="tearDown" is-config="true" duration-ms="3225" started-at="2019-03-22T09:22:22Z" finished-at="2019-03-22T09:22:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- base.TestBase -->
+      <class name="testcases.android.VerifyLandingPageAndroid">
+        <test-method status="PASS" signature="VerifyLandingPageAndroid()[pri:1, instance:testcases.android.VerifyLandingPageAndroid@c267ef4]" name="VerifyLandingPageAndroid" duration-ms="1449" started-at="2019-03-22T09:22:20Z" finished-at="2019-03-22T09:22:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLandingPageAndroid -->
+      </class> <!-- testcases.android.VerifyLandingPageAndroid -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
