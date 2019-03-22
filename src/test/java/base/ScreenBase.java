@@ -10,7 +10,7 @@ public class ScreenBase extends TestBase {
 	}
 
 	public void hideKeyboard() {
-
+		System.out.println("hiding keyboard");
 		driver.hideKeyboard();
 	}
 
