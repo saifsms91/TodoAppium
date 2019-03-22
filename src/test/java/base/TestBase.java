@@ -19,7 +19,7 @@ public class TestBase {
 	
 	ExtentHtmlReporter reporter=new ExtentHtmlReporter("./Reports/TodoReport.html");
 
-	private static final String ANDROID_URI = "/Users/saif.siddiqui/Desktop/SaifLearning/src/test/resources/app/Todoist_v12.8_apkpure.com.apk";
+	private static final String ANDROID_URI = "/Users/saif.siddiqui/Desktop/TodoAppium/src/test/resources/app/Todoist_v12.8_apkpure.com.apk";
 
 	@BeforeSuite
 	
