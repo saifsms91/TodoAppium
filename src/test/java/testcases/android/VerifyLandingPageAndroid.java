@@ -14,8 +14,10 @@ public class VerifyLandingPageAndroid extends TestBase{
 		
 		LandingPage = new  LandingPageAndroid();
 
-		LandingPage.tapContinueWithEmailLogin();
-	}
+		LandingPage.tapContinueWithEmailLoginLandingPage();
+		LandingPage.EnterEmailAddesss();
+		LandingPage.TapCountinueEmailAddress();
 
 
+}
 }
