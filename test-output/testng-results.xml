@@ -2,22 +2,22 @@
 <testng-results skipped="0" failed="0" ignored="6" total="7" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="1544" started-at="2019-03-25T06:14:56Z" finished-at="2019-03-25T06:14:57Z">
+  <suite name="Default suite" duration-ms="33512" started-at="2019-03-27T05:42:50Z" finished-at="2019-03-27T05:43:24Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="1544" started-at="2019-03-25T06:14:56Z" finished-at="2019-03-25T06:14:57Z">
+    <test name="Default test" duration-ms="33512" started-at="2019-03-27T05:42:50Z" finished-at="2019-03-27T05:43:24Z">
       <class name="base.TestBase">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:base.TestBase@21de60b4]" name="setUp" is-config="true" duration-ms="5585" started-at="2019-03-25T06:14:50Z" finished-at="2019-03-25T06:14:56Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:base.TestBase@21de60b4]" name="setUp" is-config="true" duration-ms="5676" started-at="2019-03-27T05:42:44Z" finished-at="2019-03-27T05:42:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:base.TestBase@21de60b4]" name="tearDown" is-config="true" duration-ms="1003" started-at="2019-03-25T06:14:57Z" finished-at="2019-03-25T06:14:58Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:base.TestBase@21de60b4]" name="tearDown" is-config="true" duration-ms="1559" started-at="2019-03-27T05:43:24Z" finished-at="2019-03-27T05:43:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- base.TestBase -->
       <class name="testcases.android.VerifyLandingPageAndroid">
-        <test-method status="PASS" signature="VerifyLandingPageAndroid()[pri:1, instance:testcases.android.VerifyLandingPageAndroid@c267ef4]" name="VerifyLandingPageAndroid" duration-ms="1407" started-at="2019-03-25T06:14:56Z" finished-at="2019-03-25T06:14:57Z">
+        <test-method status="PASS" signature="VerifyLandingPageAndroid()[pri:1, instance:testcases.android.VerifyLandingPageAndroid@c267ef4]" name="VerifyLandingPageAndroid" duration-ms="33370" started-at="2019-03-27T05:42:50Z" finished-at="2019-03-27T05:43:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyLandingPageAndroid -->
