@@ -5,7 +5,7 @@
     <classes>
       <class name="testcases.android.VerifyLandingPageAndroid">
         <methods>
-          <include name="VerifyLandingPageAndroid"/>
+          <include name="mobileProjectIsCreated"/>
           <include name="setUp"/>
           <include name="tearDown"/>
         </methods>

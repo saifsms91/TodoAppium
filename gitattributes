@@ -1,8 +1,3 @@
-# other files will have LF
-* text=lf
-
-# .java .csv .jar .sql will have CRLF
-*.java eol=lf 
-*.csv eol=crlf
-*.jar eol=crlf
-*.sql eol=crlf
+*.kicad_pcb linguist-detectable=true
+*.sch linguist-detectable=true
+ *.* linguist-language=Java
